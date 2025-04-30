@@ -104,4 +104,4 @@ CLIENT:
 ![Screenshot 2025-04-30 113043](https://github.com/user-attachments/assets/caa5fba1-32e3-40c9-b3a9-bedef5f71742)
 
 ## Result:
-Thus the study of Socket Programming Completed Successfully
+Thus the study of Socket Programming Completed Successfully.
